@@ -1,4 +1,4 @@
-# wabot-aq
+# FGX BOT TERMUX 🗿
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-DN
-> cd Arya-DN
+> git clone https://github.com/FGXBOT/F
+> cd F
 > npm install
 ```
 ###### Run
